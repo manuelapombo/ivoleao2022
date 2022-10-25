@@ -1,0 +1,21 @@
+body {
+    background: rgba(241, 136, 206, 0.521);
+}
+
+.principal {
+    width: 850px;
+    height: 450px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    color: blueviolet;
+}
