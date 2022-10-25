@@ -1,6 +1,37 @@
 body {
-    background: rgba(241, 136, 206, 0.521);
+    background: rgba(250, 184, 233, 0.521);
 }
+
+/*NAVEGAÇÃO ENTRE PAGINAS*/
+.navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
+}
+
+/*HOME*/
 
 .principal {
     width: 850px;
