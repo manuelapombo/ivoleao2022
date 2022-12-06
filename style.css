@@ -64,11 +64,11 @@ body {
    }
   
    .produtos li:hover {
-      border-color: rgb(255, 136, 0);
+      border-color: #d844bf;
    }
   
   .produtos li:active {
-      border-color: rgb(9, 160, 9);
+      border-color: #f774bc;
   }
   
   .produtos li:hover h2 {
@@ -99,7 +99,7 @@ body {
   
    footer {
       text-align: center;
-      background: rgb(111, 245, 183);
+      background: #f064ba;
       padding: 10px 0;
    }
   
