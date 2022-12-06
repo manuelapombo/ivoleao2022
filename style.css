@@ -160,7 +160,7 @@ body {
   }
   
   thead {
-    background: royalblue;
+    background: #262a36;
     color: black;
     font-weight: bold;
   }
@@ -225,7 +225,7 @@ body {
   
   .beneficios {
     padding: 3em 0;
-    background: rgb(191, 245, 111);
+    background: #f56fdf8e;
   }
   
   .conteudo-beneficios {
